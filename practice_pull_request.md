@@ -4,7 +4,7 @@ On your local machine, create a *new* markdown file that includes:
 1. Your favorite color
 2. The last book you read or what you are currently reading 
 3. A TV or Movie Recommendation 
-4. Choose one: Donut or Croissant?? 
+4. Choose one: Donut or Croissant?? Can I have both?
 
 Save the file with your name as the file name! 
 
