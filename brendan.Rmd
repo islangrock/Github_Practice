@@ -10,6 +10,6 @@ knitr::opts_chunk$set(echo = TRUE)
 ## R Markdown
 
 1. burple
-2. bible	
+2. not sure	
 3. bee movie 
 4. donut >:)
